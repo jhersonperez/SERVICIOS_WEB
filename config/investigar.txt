@@ -1,0 +1,2 @@
+Que es una funcion que retorna un callback
+
